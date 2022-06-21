@@ -1,0 +1,158 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+}
+* {
+    box-sizing: border-box;
+}
+ul, li {
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+.header {
+    width:1920px;
+    height: 1080px;
+    margin: 0;
+}
+.header {
+    background: url('../img/BG.jpg') no-repeat center top / cover;
+    padding-top: 44px;
+    padding-left: 175px;
+    padding-right: 175px;
+}
+header a {
+    color: #1C1C1C;
+}
+.container {
+    width: 1570px;
+    height: 22px;
+    margin: 0;
+}
+
+.menu {
+    display: flex;
+}
+.menu li a {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 14px;
+    letter-spacing: 0.05em;
+    display: flex;
+}
+.menu li {
+    margin-right: 100px;
+}
+.nav {
+    width: 1543px;
+    height: 22px;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+}
+.hr {
+    width: 1570px;
+    size: 1px;
+    color:  #1C1C1C;;
+}
+.hat {
+    width: 1570px;
+    height: 148px;
+    display: flex;
+    align-items: center;
+    margin-top: 2px;
+    
+}
+.contacts {
+    display: flex;
+    align-items: center;
+}
+.desc-left {
+    width: 205px;
+    height: 92px;
+    align-items: center;
+    font-size: 12px;
+    margin-right: 122px;
+}
+.dot {
+    text-decoration: none;
+    border-bottom: 1px dashed #12C868;
+}
+.pdf {
+    width: 210px;
+    height: 43px;
+    font-size: 12px;
+    align-items: center;
+    display: flex;
+    margin-right: 154px;
+}
+.logo {
+    width: 188px;
+    height: 78px;
+    background: url('../img/Форма.svg') no-repeat center top / cover #FFFFFF;
+    margin-top: 10px;
+    align-items: center;
+    margin-right: 179px;
+}
+.message {
+    width: 159px;
+    height: 73px;
+    font-size: 12px;
+    align-items: center;
+    margin-right: 122px;
+}
+.phone {
+    width: 243px;
+    height: 76px;
+    align-items: center;
+}
+.tel {
+    font-size: 22px;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    text-decoration: none;
+}
+.okno {
+    width: 550px;
+    height: 650px;
+    text-align: center;   
+}
+.bullet {
+    width: 225px;
+    height: 626.5px;
+    margin-top: 80px;
+    text-align: center; 
+    font-size: 14px;
+    background-color: #FFFFFF;
+}
+.guarantee {
+    width: 143px;
+    height: 66px;
+    text-align: center;
+    margin-left: 48px;
+    padding-top: 24px;
+}
+.measure {
+    width: 147px;
+    height: 88px;
+    margin-top: 48px;
+    margin-left: 48px;
+}
+.smety {
+    width: 135px;
+    height: 44px;
+    margin-top: 48px;
+    margin-left: 48px;
+}
+.Payment {
+    width: 164px;
+    height: 44px;
+    margin: 48px;
+}
+.roof {
+    width: 161px;
+    height: 88px;
+    margin: 48px;
+}
